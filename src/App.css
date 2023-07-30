@@ -2,3 +2,27 @@
   margin: 0 auto;
   text-align: center;
 }
+
+.country-flag-img {
+  width: 72px;
+  height: 54px;
+  margin: auto;
+}
+
+.card-body-details {
+  display: flex;
+  justify-content: space-between;
+}
+.card-body ul {
+  list-style: none;
+}
+
+.borders {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bold {
+  font-weight: 700;
+}
